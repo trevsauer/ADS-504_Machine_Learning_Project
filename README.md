@@ -1,4 +1,4 @@
-# ADS-504_Machine_Learning_Project
+# Water Quality Prediction
 Final project for ADS-504-01-SU2023
 
 Access to safe drinking water is essential to health, a basic human right, and a component of effective policy for health protection. This is important as a health and development issue at a national, regional, and local level. In some regions, it has been shown that investments in water supply and sanitation can yield a net economic benefit since the reductions in adverse health effects and healthcare costs outweigh the costs of undertaking the interventions.
