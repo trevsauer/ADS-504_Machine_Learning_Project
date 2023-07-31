@@ -24,3 +24,5 @@ Deactivate the virtual environment:
 ```
 exit
 ```
+## References
+[Pipenv](https://pipenv.pypa.io/en/latest/)
