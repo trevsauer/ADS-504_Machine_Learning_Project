@@ -8,7 +8,7 @@ The dataset consists of water quality metrics for 3276 different water bodies. T
 ![WaterQuality](https://github.com/trevsauer/ADS-504_Machine_Learning_Project/assets/60379514/888c4b62-3862-48d1-981f-737adc173a07)
 
 ## Environment Setup
-Pipenv virtual environment with Python 3.8.
+Pipenv virtual environment with Python 3.8 (ensure python version is installed before creating the virtual environment).
 
 If pipenv is not installed on your computer, run the following:
 ```
